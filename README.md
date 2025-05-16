@@ -32,31 +32,31 @@ Follow these steps to run the project locally:
 
 ---
 
-1. Clone the repository<br>
-git clone https://github.com/your-username/phishing-url-detector.git
-cd phishing-url-detector
+1. Clone the repository<br><br>
+git clone https://github.com/your-username/phishing-url-detector.git<br>
+cd phishing-url-detector<br><br>
 
-2. Train the Model (Python)<br>
-cd train_model
-python main.py
+2. Train the Model (Python)<br><br>
+cd train_model<br>
+python main.py<br><r>
 
-3. Start the Backend Server<br>
-cd ../backend
-npm install
-node index.js
+3. Start the Backend Server<br><br>
+cd ../backend<br>
+npm install<br>
+node index.js<br><br>
 
-4. Start the Frontend (React)<br>
-cd ../frontend
-npm install
-npm start
+4. Start the Frontend (React)<br><br>
+cd ../frontend<br>
+npm install<br>
+npm start<br><br>
 
-5. The frontend displays:<r>
+5. The frontend displays:<br><br>
 
-   ✅ Site is Safe (for label 0)
+   ✅ Site is Safe (for label 0)<br>
 
-   ⚠️ Phishing Detected (for label 1)
+   ⚠️ Phishing Detected (for label 1)<br>
 
-   🛑 Error (if something goes wrong)
+   🛑 Error (if something goes wrong)<br>
 
 
 
