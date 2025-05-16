@@ -52,11 +52,11 @@ npm start
 
 5. The frontend displays:<r>
 
-✅ Site is Safe (for label 0)
+   ✅ Site is Safe (for label 0)
 
-⚠️ Phishing Detected (for label 1)
+   ⚠️ Phishing Detected (for label 1)
 
-🛑 Error (if something goes wrong)
+   🛑 Error (if something goes wrong)
 
 
 
