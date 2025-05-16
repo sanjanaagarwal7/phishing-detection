@@ -58,6 +58,10 @@ npm start<br><br>
 
    🛑 Error (if something goes wrong)<br>
 
+![Screenshot 2025-05-16 150825](https://github.com/user-attachments/assets/2c5487b3-8222-452d-9e07-a5ce1f9bcb08)
+![Screenshot 2025-05-16 150903](https://github.com/user-attachments/assets/e76352f4-aaec-45c6-bdeb-f36ff7910ca9)
+![Screenshot 2025-05-16 150945](https://github.com/user-attachments/assets/7f363596-8092-4dfb-a2ee-6ad47f90edbb)
+
 
 
 
