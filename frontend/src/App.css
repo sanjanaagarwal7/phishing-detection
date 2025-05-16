@@ -1,0 +1,80 @@
+/* Reset and base styling */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f9fafe;
+}
+
+/* Header styling */
+.header {
+  color: #1a237e;
+  text-align: center;
+  font-size: 2.5rem;
+  margin: 4vh 0;
+}
+
+/* Centering the form */
+.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 60vh;
+  flex-direction: column;
+  background-color: #ffffff;
+  border: 1px solid #e0e0e0;
+  border-radius: 12px;
+  width: 60vw;
+  margin: auto;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+/* Input field */
+input {
+  height: 6vh;
+  width: 40vh;
+  padding: 0 1rem;
+  font-size: 1rem;
+  border: 2px solid #c5cae9;
+  border-radius: 8px;
+  outline: none;
+  transition: 0.3s;
+}
+
+input:focus {
+  border-color: #3949ab;
+  box-shadow: 0 0 5px rgba(57, 73, 171, 0.3);
+}
+
+/* Button styling */
+button {
+  margin-top: 3vh;
+  padding: 0.8rem 2rem;
+  background-color: #3949ab;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+button:hover {
+  background-color: #303f9f;
+}
+
+/* Response messages */
+p {
+  margin-top: 3vh;
+  font-size: 1.3rem;
+  font-weight: bold;
+  text-align: center;
+  padding: 1rem 2rem;
+  border-radius: 8px;
+  width: fit-content;
+  max-width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
